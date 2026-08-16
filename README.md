@@ -4,7 +4,7 @@
 
 > *"Systematic approach over chaos"*
 
-📍 Poland · UTC+1 &nbsp;·&nbsp; 🧭 14+ years in tech &nbsp;·&nbsp; 🔍 cloud security · fintech · e-commerce · media · education
+📍 Poland · UTC+1 &nbsp;·&nbsp; 🧭 15+ years in tech &nbsp;·&nbsp; 🔍 cloud security · fintech · e-commerce · media · education
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rufat-khaslarov/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@rufatkhaslarov)
